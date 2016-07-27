@@ -1,2 +1,3 @@
 # hello-world
 first shot at Github
+So I started off as a Technical Analyst a couple of years back, after I had worked as a Technology Lead in an oversea Commercial back. transitioned to Oracle functional SME for a year, and moved to join the Technology Strategy and Architecture workstream, and aligned with Enterprise Architecture.... I am currently a Cloud implementation Engineer...
